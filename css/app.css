@@ -19,3 +19,16 @@ h2{
     color: black;
     font-weight: 800;
 }
+
+
+#origin {
+    color: red;
+    font-size: 20px;
+    font-weight: 800;
+} 
+
+.phylogency {
+    color: bisque;
+    font-size: 18px;
+    font-weight: 700;
+}
