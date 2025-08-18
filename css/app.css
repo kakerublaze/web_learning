@@ -1,0 +1,21 @@
+h1 {
+    font-size: 24px;
+    color: black;
+    font-weight: bold;
+}
+
+p {
+    color: black;
+    font-size: 14px;
+    font-weight: 400;
+}
+
+a{
+    text-decoration: none;
+}
+
+h2{
+    font-size: 22px;
+    color: black;
+    font-weight: 800;
+}
